@@ -4,7 +4,7 @@ import { useSearchStr } from "../lib/useSearchStr";
 const SearchForm = ({onSearch}) => {
     const[searchString, setSearchString]=useSearchStr();
     const onSearchInputChange=(ev)=>{
-        setSearchString(ev.target.value)
+        setSearchString((ev.target.value).trim())
       }
     const onSubmit=(ev)=>{
     ev.preventDefault();
