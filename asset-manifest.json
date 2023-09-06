@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/movie-hunter-app/static/js/main.02e14ea3.js",
+    "main.js": "/movie-hunter-app/static/js/main.d024ea57.js",
     "static/js/787.203d0ed0.chunk.js": "/movie-hunter-app/static/js/787.203d0ed0.chunk.js",
     "service-worker.js": "/movie-hunter-app/service-worker.js",
     "index.html": "/movie-hunter-app/index.html",
-    "main.02e14ea3.js.map": "/movie-hunter-app/static/js/main.02e14ea3.js.map",
+    "main.d024ea57.js.map": "/movie-hunter-app/static/js/main.d024ea57.js.map",
     "787.203d0ed0.chunk.js.map": "/movie-hunter-app/static/js/787.203d0ed0.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.02e14ea3.js"
+    "static/js/main.d024ea57.js"
   ]
 }
